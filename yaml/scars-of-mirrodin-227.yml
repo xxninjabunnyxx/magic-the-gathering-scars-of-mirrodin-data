@@ -1,0 +1,115 @@
+---
+object: card
+id: 8b63efb6-249c-4f57-9af1-baffe938520c
+oracle_id: 92c9aad6-35ec-425d-be7d-393328992820
+multiverse_ids:
+- 209043
+mtgo_id: 38259
+mtgo_foil_id: 38260
+tcgplayer_id: 36535
+cardmarket_id: 242683
+name: Glimmerpost
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/8b63efb6-249c-4f57-9af1-baffe938520c
+scryfall_uri: https://scryfall.com/card/som/227/glimmerpost?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8b63efb6-249c-4f57-9af1-baffe938520c.jpg?1562820112
+  normal: https://cards.scryfall.io/normal/front/8/b/8b63efb6-249c-4f57-9af1-baffe938520c.jpg?1562820112
+  large: https://cards.scryfall.io/large/front/8/b/8b63efb6-249c-4f57-9af1-baffe938520c.jpg?1562820112
+  png: https://cards.scryfall.io/png/front/8/b/8b63efb6-249c-4f57-9af1-baffe938520c.png?1562820112
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8b63efb6-249c-4f57-9af1-baffe938520c.jpg?1562820112
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8b63efb6-249c-4f57-9af1-baffe938520c.jpg?1562820112
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Locus
+oracle_text: |-
+  When Glimmerpost enters the battlefield, you gain 1 life for each Locus on the battlefield.
+  {T}: Add {C}.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set: som
+set_name: Scars of Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/som?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8b63efb6-249c-4f57-9af1-baffe938520c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92c9aad6-35ec-425d-be7d-393328992820&unique=prints
+collector_number: '227'
+digital: false
+rarity: common
+watermark: mirran
+flavor_text: What once spied upon Mirrodin from above now waits below for another
+  to assume control.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: b4388636-30ed-4e4f-8799-ad805163e0d5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8149
+penny_rank: 100
+prices:
+  usd: '0.29'
+  usd_foil: '11.53'
+  usd_etched: 
+  eur: '0.09'
+  eur_foil: '3.12'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209043
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Glimmerpost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Glimmerpost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Glimmerpost
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36535?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Glimmerpost&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38259?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,116 @@
+---
+object: card
+id: fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab
+oracle_id: d121108e-f0bc-469b-bf94-e5e5308014a2
+multiverse_ids:
+- 194323
+mtgo_id: 38075
+mtgo_foil_id: 38076
+tcgplayer_id: 36433
+cardmarket_id: 242755
+name: Razor Hippogriff
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab
+scryfall_uri: https://scryfall.com/card/som/17/razor-hippogriff?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/c/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab.jpg?1562825516
+  normal: https://cards.scryfall.io/normal/front/f/c/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab.jpg?1562825516
+  large: https://cards.scryfall.io/large/front/f/c/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab.jpg?1562825516
+  png: https://cards.scryfall.io/png/front/f/c/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab.png?1562825516
+  art_crop: https://cards.scryfall.io/art_crop/front/f/c/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab.jpg?1562825516
+  border_crop: https://cards.scryfall.io/border_crop/front/f/c/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab.jpg?1562825516
+mana_cost: "{3}{W}{W}"
+cmc: 5.0
+type_line: Creature — Hippogriff
+oracle_text: |-
+  Flying
+  When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's mana value.
+power: '3'
+toughness: '3'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set: som
+set_name: Scars of Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/som?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fc7ac3bf-eed2-417d-8b60-e8c84bfb98ab/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad121108e-f0bc-469b-bf94-e5e5308014a2&unique=prints
+collector_number: '17'
+digital: false
+rarity: uncommon
+watermark: mirran
+flavor_text: She incubates her eggs in gold and mana.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: David Rapoza
+artist_ids:
+- c5a2318d-5d04-499f-b121-57dee5a9dfe6
+illustration_id: 67cd9fdc-b074-4f9f-8c9d-1e128c6c5692
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19666
+prices:
+  usd: '0.09'
+  usd_foil: '0.15'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.04'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194323
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Razor+Hippogriff&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Razor+Hippogriff&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Razor+Hippogriff
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36433?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Razor+Hippogriff&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38075?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

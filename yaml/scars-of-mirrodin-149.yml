@@ -1,0 +1,115 @@
+---
+object: card
+id: b997c3e6-4b0e-4f4a-9f66-3fc1d8395494
+oracle_id: 3b7ea3ac-ac0a-40aa-b743-d153e1c47d8c
+multiverse_ids:
+- 209033
+mtgo_id: 38245
+mtgo_foil_id: 38246
+tcgplayer_id: 36228
+cardmarket_id: 242535
+name: Darksteel Axe
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494
+scryfall_uri: https://scryfall.com/card/som/149/darksteel-axe?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/9/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494.jpg?1562822286
+  normal: https://cards.scryfall.io/normal/front/b/9/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494.jpg?1562822286
+  large: https://cards.scryfall.io/large/front/b/9/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494.jpg?1562822286
+  png: https://cards.scryfall.io/png/front/b/9/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494.png?1562822286
+  art_crop: https://cards.scryfall.io/art_crop/front/b/9/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494.jpg?1562822286
+  border_crop: https://cards.scryfall.io/border_crop/front/b/9/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494.jpg?1562822286
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact — Equipment
+oracle_text: |-
+  Indestructible (Effects that say "destroy" don't destroy this artifact.)
+  Equipped creature gets +2/+0.
+  Equip {2}
+colors: []
+color_identity: []
+keywords:
+- Indestructible
+- Equip
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set: som
+set_name: Scars of Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/som?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b997c3e6-4b0e-4f4a-9f66-3fc1d8395494/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3b7ea3ac-ac0a-40aa-b743-d153e1c47d8c&unique=prints
+collector_number: '149'
+digital: false
+rarity: uncommon
+watermark: mirran
+flavor_text: Heavier than it looks, tricky to wield, guaranteed to last.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Ljunggren
+artist_ids:
+- 0fbd4798-76eb-46d5-a5d4-1e3a25870e34
+illustration_id: 5fbd5724-0356-49e6-a591-e79c311bb00b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9052
+penny_rank: 3468
+prices:
+  usd: '0.10'
+  usd_foil: '0.34'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.40'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209033
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Darksteel+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Darksteel+Axe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Darksteel+Axe
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36228?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Darksteel+Axe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38245?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

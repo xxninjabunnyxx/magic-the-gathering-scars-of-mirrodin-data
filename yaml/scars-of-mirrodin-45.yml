@@ -1,0 +1,115 @@
+---
+object: card
+id: 6fe212ed-31cb-4f10-8ba7-e97af1d30d24
+oracle_id: d2145ad3-fe7e-459b-b155-1b3ed089e936
+multiverse_ids:
+- 194361
+mtgo_id: 38089
+mtgo_foil_id: 38090
+tcgplayer_id: 36244
+cardmarket_id: 242522
+name: Steady Progress
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/6fe212ed-31cb-4f10-8ba7-e97af1d30d24
+scryfall_uri: https://scryfall.com/card/som/45/steady-progress?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/f/6fe212ed-31cb-4f10-8ba7-e97af1d30d24.jpg?1562818904
+  normal: https://cards.scryfall.io/normal/front/6/f/6fe212ed-31cb-4f10-8ba7-e97af1d30d24.jpg?1562818904
+  large: https://cards.scryfall.io/large/front/6/f/6fe212ed-31cb-4f10-8ba7-e97af1d30d24.jpg?1562818904
+  png: https://cards.scryfall.io/png/front/6/f/6fe212ed-31cb-4f10-8ba7-e97af1d30d24.png?1562818904
+  art_crop: https://cards.scryfall.io/art_crop/front/6/f/6fe212ed-31cb-4f10-8ba7-e97af1d30d24.jpg?1562818904
+  border_crop: https://cards.scryfall.io/border_crop/front/6/f/6fe212ed-31cb-4f10-8ba7-e97af1d30d24.jpg?1562818904
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Instant
+oracle_text: |-
+  Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+  Draw a card.
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Proliferate
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set: som
+set_name: Scars of Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/som?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6fe212ed-31cb-4f10-8ba7-e97af1d30d24/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad2145ad3-fe7e-459b-b155-1b3ed089e936&unique=prints
+collector_number: '45'
+digital: false
+rarity: common
+watermark: phyrexian
+flavor_text: '"More of that strange oil . . . It''s probably nothing."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Efrem Palacios
+artist_ids:
+- 6cec4bf2-712b-4349-ad29-029b63f71639
+illustration_id: 4b97d4e7-7693-41b2-b0eb-7797670f380b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3005
+penny_rank: 7593
+prices:
+  usd: '0.22'
+  usd_foil: '2.13'
+  usd_etched: 
+  eur: '0.21'
+  eur_foil: '0.14'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194361
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Steady+Progress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Steady+Progress&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Steady+Progress
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36244?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Steady+Progress&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38089?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

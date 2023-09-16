@@ -1,0 +1,116 @@
+---
+object: card
+id: 82ef2567-f798-4447-9735-c7c0d88aba85
+oracle_id: 0040db73-ac11-4c15-a1ac-5a2c4c085f09
+multiverse_ids:
+- 194349
+mtgo_id: 38087
+mtgo_foil_id: 38088
+tcgplayer_id: 36462
+cardmarket_id: 242781
+name: Instill Infection
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/82ef2567-f798-4447-9735-c7c0d88aba85
+scryfall_uri: https://scryfall.com/card/som/68/instill-infection?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/2/82ef2567-f798-4447-9735-c7c0d88aba85.jpg?1562819693
+  normal: https://cards.scryfall.io/normal/front/8/2/82ef2567-f798-4447-9735-c7c0d88aba85.jpg?1562819693
+  large: https://cards.scryfall.io/large/front/8/2/82ef2567-f798-4447-9735-c7c0d88aba85.jpg?1562819693
+  png: https://cards.scryfall.io/png/front/8/2/82ef2567-f798-4447-9735-c7c0d88aba85.png?1562819693
+  art_crop: https://cards.scryfall.io/art_crop/front/8/2/82ef2567-f798-4447-9735-c7c0d88aba85.jpg?1562819693
+  border_crop: https://cards.scryfall.io/border_crop/front/8/2/82ef2567-f798-4447-9735-c7c0d88aba85.jpg?1562819693
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Instant
+oracle_text: |-
+  Put a -1/-1 counter on target creature.
+  Draw a card.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set: som
+set_name: Scars of Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/som?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/82ef2567-f798-4447-9735-c7c0d88aba85/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0040db73-ac11-4c15-a1ac-5a2c4c085f09&unique=prints
+collector_number: '68'
+digital: false
+rarity: common
+watermark: phyrexian
+flavor_text: |-
+  "The results of our ninth inoculation were the same. The specimen was, of course, euthanized before the contagion could spread."
+  —Vedalken research notes
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chris Rahn
+artist_ids:
+- 7742047e-0f80-4c0f-a530-d07460165e86
+illustration_id: b6ed586f-8823-495a-a56b-966a854f135b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17607
+penny_rank: 5483
+prices:
+  usd: '0.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.08'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194349
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Instill+Infection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Instill+Infection&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Instill+Infection
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36462?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Instill+Infection&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38087?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

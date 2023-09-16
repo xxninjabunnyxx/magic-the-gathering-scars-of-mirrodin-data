@@ -1,0 +1,114 @@
+---
+object: card
+id: 48311a45-c0e1-4170-8dab-2b3495096c48
+oracle_id: 15fb3a7a-a6c3-4bef-9f72-1d04b623063e
+multiverse_ids:
+- 215089
+mtgo_id: 38429
+mtgo_foil_id: 38430
+tcgplayer_id: 36341
+cardmarket_id: 242586
+name: Molten-Tail Masticore
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/48311a45-c0e1-4170-8dab-2b3495096c48
+scryfall_uri: https://scryfall.com/card/som/177/molten-tail-masticore?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/8/48311a45-c0e1-4170-8dab-2b3495096c48.jpg?1562817136
+  normal: https://cards.scryfall.io/normal/front/4/8/48311a45-c0e1-4170-8dab-2b3495096c48.jpg?1562817136
+  large: https://cards.scryfall.io/large/front/4/8/48311a45-c0e1-4170-8dab-2b3495096c48.jpg?1562817136
+  png: https://cards.scryfall.io/png/front/4/8/48311a45-c0e1-4170-8dab-2b3495096c48.png?1562817136
+  art_crop: https://cards.scryfall.io/art_crop/front/4/8/48311a45-c0e1-4170-8dab-2b3495096c48.jpg?1562817136
+  border_crop: https://cards.scryfall.io/border_crop/front/4/8/48311a45-c0e1-4170-8dab-2b3495096c48.jpg?1562817136
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact Creature — Masticore
+oracle_text: |-
+  At the beginning of your upkeep, sacrifice Molten-Tail Masticore unless you discard a card.
+  {4}, Exile a creature card from your graveyard: Molten-Tail Masticore deals 4 damage to any target.
+  {2}: Regenerate Molten-Tail Masticore.
+power: '4'
+toughness: '4'
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set: som
+set_name: Scars of Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/som?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/48311a45-c0e1-4170-8dab-2b3495096c48/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A15fb3a7a-a6c3-4bef-9f72-1d04b623063e&unique=prints
+collector_number: '177'
+digital: false
+rarity: mythic
+watermark: mirran
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Whit Brachna
+artist_ids:
+- 435991cd-0bfe-4d00-ba48-39815d35e9f6
+illustration_id: 8dc89315-0715-4a47-8451-74420ff437c7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23108
+penny_rank: 6044
+prices:
+  usd: '0.29'
+  usd_foil: '0.84'
+  usd_etched: 
+  eur: '0.55'
+  eur_foil: '0.50'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215089
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Molten-Tail+Masticore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Molten-Tail+Masticore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Molten-Tail+Masticore
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36341?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Molten-Tail+Masticore&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38429?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

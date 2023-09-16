@@ -1,0 +1,115 @@
+---
+object: card
+id: cb52e7ba-5340-44e1-9b63-775e1f387925
+oracle_id: ffc95093-24a2-4616-a44a-24788e8df9c8
+multiverse_ids:
+- 209040
+mtgo_id: 38255
+mtgo_foil_id: 38256
+tcgplayer_id: 36311
+cardmarket_id: 242573
+name: Trinket Mage
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/cb52e7ba-5340-44e1-9b63-775e1f387925
+scryfall_uri: https://scryfall.com/card/som/48/trinket-mage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/b/cb52e7ba-5340-44e1-9b63-775e1f387925.jpg?1562823088
+  normal: https://cards.scryfall.io/normal/front/c/b/cb52e7ba-5340-44e1-9b63-775e1f387925.jpg?1562823088
+  large: https://cards.scryfall.io/large/front/c/b/cb52e7ba-5340-44e1-9b63-775e1f387925.jpg?1562823088
+  png: https://cards.scryfall.io/png/front/c/b/cb52e7ba-5340-44e1-9b63-775e1f387925.png?1562823088
+  art_crop: https://cards.scryfall.io/art_crop/front/c/b/cb52e7ba-5340-44e1-9b63-775e1f387925.jpg?1562823088
+  border_crop: https://cards.scryfall.io/border_crop/front/c/b/cb52e7ba-5340-44e1-9b63-775e1f387925.jpg?1562823088
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Human Wizard
+oracle_text: When Trinket Mage enters the battlefield, you may search your library
+  for an artifact card with mana value 1 or less, reveal that card, put it into your
+  hand, then shuffle.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set: som
+set_name: Scars of Mirrodin
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/som?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cb52e7ba-5340-44e1-9b63-775e1f387925/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Affc95093-24a2-4616-a44a-24788e8df9c8&unique=prints
+collector_number: '48'
+digital: false
+rarity: uncommon
+watermark: mirran
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott Chou
+artist_ids:
+- 9e048547-f9c3-4958-9c2c-91e45df7c6ae
+illustration_id: 06c95e1f-9669-4e75-893a-8320c1e73ec0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1028
+penny_rank: 2834
+prices:
+  usd: '0.27'
+  usd_foil: '6.15'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '3.00'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209040
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Trinket+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Trinket+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Trinket+Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36311?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Trinket+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/38255?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
